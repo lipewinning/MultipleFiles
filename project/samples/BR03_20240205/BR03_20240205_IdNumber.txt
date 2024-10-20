@@ -1,1 +1,3 @@
-dsfdsafadsf
+IdNumber,Total
+p01, 100.30
+p03, 345.98
